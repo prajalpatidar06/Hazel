@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'm-un_db=x5c@_6f%%ngz=4_$x%jqohc71$*yg2=8_5%4p&hh#('
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['question-gallery.herokuapp.com' , '127.0.0.1']
 
